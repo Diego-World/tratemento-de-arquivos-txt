@@ -1,0 +1,1 @@
+# Projeto criado para puramente prática de algoritmo #
